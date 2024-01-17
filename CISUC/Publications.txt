@@ -1,0 +1,52 @@
+Conference Article:
+Glowing Lichen/Eletronic/Jorge Henriques,Artur Rebelo,Alberto Cardoso/2019/199/Visually Sensing Social Spaces/12/1/2020/Canada
+Conference Article:
+Decision Trees and Random Forest on Sentiment Analysis/Artificial Intelligence;Computational Intelligence/Alberto Cardoso,Nuno Lourenço,Jorge Henriques/2019/400/Data Mining in Electronic Commerce/20/4/2019/Vienna,Austria
+Conference Article:
+A Case for Machine Learning in Edge-Oriented Computing to Enhance Mobility as a Service/Planning Public transportation Ecosystems Companies Automobiles/Penousal Machado,Ernesto Costa/2019/199/Machine Learning/29/5/2019/Santorini Island,Greece
+Conference Article:
+Text Mining in Hotel Reviews/Learning, Stemming/Artur Rebelo,Licinio Roque/2019/599/Impact of Words Restriction in Text Classification/23/5/2019/Vienna, Austria
+Conference Article:
+An Integrated Approach/Internet of Things,mobile computing/Nuno Lourenço,Joao Barata/2011/399/Human-in-the-Loop Systems and Online Social Sensing/22/11/2011/Paris,France
+Magazine Article:
+Journal of Grid Computing/Computing/Ernesto Costa,Bruno Sousa/2014/2000/Benchmarking Serverless Computing Platforms/20/5/2014/100/In this paper, we propose an optimization model, based of mixed-integer linear programming, capable of identifying a combination of biomarkers for distinguishing between healthy and diseased samples.
+Magazine Article:
+Online Social Networks and Media/Smartphone Sensing,Social Sensors/Licinio Roque,Paulo Simoes/2015/4000/A Socially-Aware Human-in-the-Loop Advisor System/7/7/2019/24/Currently, we are surrounded by all sorts of smart devices.
+Magazine Article:
+An Outlook on Physical/ Internet of Things; taxonomy/Joao Barata,Henrique Madeira/2016/8000/Virtual Sensors for a Socially Interactive Internet/21/2/2016/90/The Internet keeps changing at a rapid pace, driven mainly by the emerging concepts and applications that make it aware of the physical world and responsive to user context.
+Magazine Article:
+A Survey of IoT/Management protocols,IoT,device management/Bruno Sousa,Bruno Cabral/2018/900/Management Protocols and Frameworks/27/3/2018/40/As the complexity of Internet of Things (IoT) systems increases, a large variety of tools
+Magazine Article:
+International Conference on Bioinformatics and Biomedical Engineering/Biomarkers Disease diagnostic/Paulo Simoes,Filipe Palrinhas/2017/4000/Mixed-Integer Programming Model for Profiling Disease Biomarkers from Gene Expression Studies/2/10/2017/100/Biomedical research has seen great advances in recent years, in great part due to the long-term aid of the ability to identify biological
+Book:
+Pattern Recognition and Image Analysis, LNCS 11867, Springer, Part II/Computation/Henrique Madeira,Ana Rodrigues/2019/5000/Springer/978-3-030-31321-0/The discriminator learns to distinguish between real samples of an input dataset and fake samples.
+Book:
+Computational Intelligence/Computational Intelligence,Evolutionary Computation/Bruno Cabral,Joaquim Carvalho/2016/3500/Springer/978-3-319-99282-2/The papers address three main fields of Computational Intelligence, namely: Evolutionary Computation, Fuzzy Computation, and Neural Computation.
+Book:
+Service Oriented Big Data Management for Transport/ITS Big data Cloud services /Filipe Palrinhas,Eunice Nunes/2014/1000/Springer/978-3-319-27753-0/The increasing power of computer hardware and the sophistication of computer software have brought many new possibilities to information world.
+Book:
+Neuroevolution of Generative Adversarial Networks/Networks GANs/Ana Rodrigues,Andre Gomes/2020/2000/Springer/978-981-15-3685-4/enerative Adversarial Networks (GAN) is an adversarial model that became relevant in the last years, displaying impressive results in generative tasks.
+Book:
+Connection Handler: A Design Pattern for Recovery from Connection Crashes/Reliable communication Cloud computing/Joaquim Carvalho,David Alves/2014/500/Springer/978-3-030-33624-0/reating dependable distributed applications for the cloud is a challenging task that heavily depends on the communication middleware.
+Book Chapter:
+Resilience Enhancement in Cyber-Physical Systems: A Multiagent-Based Framework/cyber-physical systemsartificial cognitioncontext awarenessdistributed middlewareheterogeneous systems/Eunice Nunes,Jorge Henriques/2017/4000/Springer/936-7-035-83748-3/The growing developments on networked devices, with different communication platforms and capabilities, made the cyber-physical systems an integrating part of most critical industrial infrastructures./Directional Grid-based Search for Simulation Metamodeling using Active/67/140
+Book Chapter:
+Using Data Science to Predict Hotel Booking Cancellations/Hotel Booking cancellations/Andre Gomes,Alberto Cardoso,Jorge Henriques/2017/2000/Springer/9781522510550/Booking cancellations in the hospitality industry not only generate revenue loss and affect pricing and inventory allocation decisions, but they also, in overbooking situations, have the potential to affect the hotel's online social reputation./Handbook of Research on Holistic Optimization Techniques in the Hospitality, Tourism, and Travel Industry/1/27
+Book Chapter:
+Alternative shaper: a model for automatic design generation/Shape grammar Spatial grammar Automatic design generation Formal specification Applied formal methods/Jorge Henriques,Joao Barata/2014/6000/Springer/018-0452-8/This paper discusses the formalization of Alternative Shaper, a Spatial Grammar supplemented with procedural knowledge for supporting design generation./Formal Aspects of Computing/20/87
+Book Chapter:
+Principles of a Casual Serious Game to Support Introductory Programming Learning in Higher Education/Games Learn Programming/Alberto Cardoso,Paulo Simoes/2013/1000/IGI Global/1522510346/Casual games are characterized for their fast learning curve./Gamification-Based E-Learning Strategies for Computer Programming Education/32/46
+Book Chapter:
+Cyber Resilience of Systems and Networks/Internet of Things Resilience Cyber-physical systems Cloud Fog/Penousal Machado,Jorge Henriques/2019/1000/Springer International Publishing/672-22328-7/This chapter addresses cyber-physical systems resilience with a focus on Internet of Things as a particularly prominent example of large-scale cyber-physical systems./Internet of Things/381/401
+Book Chapter:
+Commercial and Open Source Business Intelligence Platforms for Big Data Warehousing/Data Organizations/Artur Rebelo/2019/4000/Springer/677283927/A big data warehouse enables the analysis of large amounts of information that typically comes from the organization's transactional systems (OLTP)./ Emerging Perspectives in Big Data Warehousing/102/146
+Conference Article Book:
+Media, information and literacy/Literacies, Media, Information/Paulo Simoes/2019/3000/Springer/978-989-26-1891-3/Media, information and literacy: directions and perspectives brings together a diverse range of perspectives/III: Conferências & Debates Interdisciplinares/34
+Conference Article Book:
+Cybersecurity Policies and Strategies for Cyberwarfare Prevention/Cybersecurity/Nuno Lourenço/2014/3500/IEEE Computer Society Press/978-1-4666-8456-0/Cybersecurity Policies and Strategies for Cyberwarfare Prevention serves as an integral publication on the latest legal and defensive measures being implemented to protect individuals, as well as organizations, from cyber threats./5th International Conference/14
+Conference Article Book:
+Evolutionary and Biologically Inspired Music, Sound, Art and Design/Art; Evolution/Ernesto Costa/2017/5500/IEEE Computer Society Press/978-1-4666-8456-0/In this paper, we propose a directional training scheme, combining both active learning and simulation metamodeling, to address the challenge of exploring the input space, within the context of computationally expensive simulation models./7th International Conference/25
+Conference Article Book:
+Directional Grid-Based Search for Simulation Metamodeling Using Active Learning/Machine learning Active learning/Licinio Roque/2020/6000/Springer/978-3-030-38822-5/Within dense urban environments, real-world transportation systems are often associated with extraordinary modeling complexity./II: International Conference/52
+Conference Article Book:
+Assessing the Impact of Distance Functions on K-Nearest Neighbours Imputation of Biomedical Datasets/Missing data Heterogeneous data/Joao Barata/2014/1000/Springer/978-3-030-59137-3/In healthcare domains, dealing with missing data is crucial since absent observations compromise the reliability of decision support models./2th International Conference/49

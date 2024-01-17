@@ -1,0 +1,20 @@
+Effective Members:
+Jorge Henriques/jh@dei.uc.pt/AC/19/214748664
+Alberto Cardoso/alberto@dei.uc.pt/AC/9/239790045
+Penousal Machado/machado@dei.uc.pt/CMS/24/239790067
+Artur Rebelo/arturr@dei.uc.pt/CMS/26/239790345
+Nuno Lourenço/naml@dei.uc.pt/ECOS/5/239790099
+Ernesto Costa/ernesto@dei.uc.pt/ECOS/2/239790000
+Licinio Roque/lir@dei.uc.pt/IS/4/239790023
+Joao Barata/barata@dei.uc.pt/IS/13/239790044
+Bruno Sousa/bmsousa@dei.uc.pt/LCT/7/239790089
+Paulo Simoes/psimoes@dei.uc.pt/LCT/1/239790078
+Henrique Madeira/henrique@dei.uc.pt/SSE/6/239790000
+Bruno Cabral/bcabral@dei.uc.pt/SSE/12/239790023
+Students:
+Filipe Palrinhas/fpal@student.dei.uc.pt/AC/SVG as a Basis for HCI in Heterogeneous eHealth Systems/4/2/2004/Jorge Henriques
+Ana Rodrigues/anatr@dei.uc.pt/CMS/Objetos Musicais/3/3/2014/Artur Rebelo
+Joaquim Carvalho/joaquim@dei.uc.pt/ECOS/Comportamentos Morais e Estruturas Sociais numa paróquia de Antigo Regime/2/2/1997/Ernesto Costa
+Eunice Nunes/eunice@noemail.com/IS/Processo de Design de um Jogo para Ambientes Multissensoriais/4/5/2005/Licinio Roque
+Andre Gomes/asng@dei.uc.pt/LCT/Wireless Public Safety Networks/20/1/216/Bruno Sousa
+David Alves/dalves@dei.uc.pt/SSE/Deadline Queries: Using Elastic MapReduce to Produce On-Time Results/18/2/2009/Bruno Cabral
